@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[https://estore-redux-85416e.netlify.app/]
+[Live Demo](https://estore-redux-85416e.netlify.app/)
 
 ## Available Scripts
 
