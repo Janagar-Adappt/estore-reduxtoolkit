@@ -1,6 +1,6 @@
 # General Info
 
-front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
+front-end: Reactjs, Redux-toolkit, CSS
 
 [Live Demo](https://estore-redux-85416e.netlify.app/)
 
